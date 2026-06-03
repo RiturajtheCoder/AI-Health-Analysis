@@ -1,0 +1,17 @@
+streamlit
+pandas
+matplotlib
+Pillow
+PyMuPDF
+pydantic
+python-dotenv
+
+langchain
+langchain-core
+langgraph
+
+langchain-groq
+groq
+
+pytesseract
+numpy
