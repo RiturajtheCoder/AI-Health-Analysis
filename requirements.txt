@@ -15,3 +15,5 @@ groq
 
 pytesseract
 numpy
+
+langchain-huggingface
